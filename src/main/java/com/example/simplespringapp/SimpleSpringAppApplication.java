@@ -11,7 +11,7 @@ public class SimpleSpringAppApplication {
 
 	@GetMapping("/hi")
 	public String hello(){
-		return "Hello World! Howdy?";
+		return "Hello World! Howdy? This is Derrick";
 	}
 
 	public static void main(String[] args) {
